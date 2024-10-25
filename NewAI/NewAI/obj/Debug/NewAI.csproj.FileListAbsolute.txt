@@ -1,0 +1,8 @@
+D:\Мой диск\Projects\NewAI\NewAI\NewAI\bin\Debug\NewAI.exe.config
+D:\Мой диск\Projects\NewAI\NewAI\NewAI\bin\Debug\NewAI.exe
+D:\Мой диск\Projects\NewAI\NewAI\NewAI\bin\Debug\NewAI.pdb
+D:\Мой диск\Projects\NewAI\NewAI\NewAI\obj\Debug\NewAI.csproj.AssemblyReference.cache
+D:\Мой диск\Projects\NewAI\NewAI\NewAI\obj\Debug\NewAI.csproj.SuggestedBindingRedirects.cache
+D:\Мой диск\Projects\NewAI\NewAI\NewAI\obj\Debug\NewAI.csproj.CoreCompileInputs.cache
+D:\Мой диск\Projects\NewAI\NewAI\NewAI\obj\Debug\NewAI.exe
+D:\Мой диск\Projects\NewAI\NewAI\NewAI\obj\Debug\NewAI.pdb
